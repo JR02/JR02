@@ -1,4 +1,4 @@
-## Hi there 👋<h1 align="center">Hey <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/lightning.gif" height="30px" width="30px"> I'm JUNIOR I. MONTERO RAMIREZ</h1>
+## Hi there 👋<h1 align="center">Hey <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/lightning.gif" height="30px" width="30px"> I'm Junior I. Montero  Ramirez</h1>
 <h3 align="center">Data Analyst</h3>
 
 <p align="center">
